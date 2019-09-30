@@ -1,0 +1,25 @@
+{
+  "name": "exportapp",
+  "version": "0.0.1",
+  "description": "Export from Jira to Docx or pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midri/exportJira.git"
+  },
+  "keywords": [
+    "jira",
+    "export",
+    "doc",
+    "pdf"
+  ],
+  "author": "Meryem Mansouri Idrissi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midri/exportJira/issues"
+  },
+  "homepage": "https://github.com/midri/exportJira#readme"
+}
